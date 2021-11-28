@@ -1,0 +1,26 @@
+body{
+    background-image: url('https://dm0qx8t0i9gc9.cloudfront.net/thumbnails/video/GTYSdDW/videoblocks-elegant-background-business-presentations_spmelav-b_thumbnail-1080_01.png');
+    background-size:cover;
+}
+.A{
+    position:sticky;
+    top:90px;
+    left:0px;
+    background-color:burlywood;
+}
+.header{
+    background-color: coral;
+    text-align:center;
+    position:fixed;
+    top:0px;
+    left:0px;
+    width:100%;
+}
+.name{
+    margin-top:90px;
+    color:white;
+}
+.name1,.name2,.name3,.name4,.name5,.name6,.name7{
+    margin-top:20px;
+    color:white;
+}
